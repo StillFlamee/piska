@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Simple command-line calculator."""
 
 import sys

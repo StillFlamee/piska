@@ -4,10 +4,10 @@ This repository contains a simple command-line calculator.
 
 ## Running the calculator
 
-Use Python to run `calculator.py` with two numbers and an operator. Example:
+Use Python to run `calculator.py` with two numbers and an operator, or execute it directly if the file is executable. Example:
 
 ```bash
-python calculator.py 3 + 4
+./calculator.py 3 + 4
 ```
 
 Operators supported:
